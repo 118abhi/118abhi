@@ -51,7 +51,7 @@ https://food-app-ten-steel.vercel.app/
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src=" https://img.freepik.com/free-photo/fun-3d-cartoon-teenage-boy_183364-81177.jpg?w=360&t=st=1718188365~exp=1718188965~hmac=45bd9b43aeadf06db4ac98701491ef9e15a486820847a92755f26dc268c137df" align="center" style="width: 100%" />
 </div>  
 
 
