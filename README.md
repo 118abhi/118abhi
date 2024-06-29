@@ -57,3 +57,6 @@
 </div>
 
  
+<img src="https://raw.githubusercontent.com/118abhi/118abhi/output/snake.svg" alt="Snake animation" />
+
+ 
