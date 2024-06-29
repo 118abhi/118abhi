@@ -47,13 +47,13 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="left">
+<div align="center">
 <a href="https://github.com/118abhi">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=118abhi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=118abhi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=118abhi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=118abhi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=118abhi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=118abhi&theme=2077" height="190em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=118abhi&theme=2077" height="190em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=118abhi&theme=2077" height="190em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=118abhi&theme=2077" height="190em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=118abhi&theme=2077" height="190em" />
 </div>
 
  
